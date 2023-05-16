@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxifaxipaxi-new
+- 👋 Hi, I’m @maxifaxipaxi
 - 👀 I’m interested in photography, tech & more!
 - 🌱 I’m currently learning Java, JavaScript, HTML, CSS & Python
 - 💞️ I’m looking to collaborate on: idk xD
